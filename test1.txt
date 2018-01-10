@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C92-29F4
+
+ Directory of C:\Users\BuildSystemLogin\Desktop\NewProject
+
+10/01/2018  17:27    <DIR>          .
+10/01/2018  17:27    <DIR>          ..
+10/01/2018  17:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,534,345,728 bytes free
